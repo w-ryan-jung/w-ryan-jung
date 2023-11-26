@@ -14,7 +14,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=999&color=000000&random=false&width=600&lines=Driven+Software+Engineer;Value+neat+clean+code;Following+SOLID+principles)](https://git.io/typing-svg)
 
----
+
 ### :luggage: Repositories :
 
 <div>
