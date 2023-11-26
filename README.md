@@ -5,15 +5,32 @@
 
 
 <div>
-    Hey there
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/>
+    Hey There!
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="15"/>
 </div>
-
 
 
 ### :thinking: About Me :
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=000000&width=435&lines=Hi+I+am+a+Software+Engineer)](https://git.io/typing-svg)
+
+---
+### :luggage: Repositories :
+
+<div>
+<li>
+    <a href="https://github.com/legacy-shu">SHU-Software Engineering</a>
+</li>
+<li>
+    <a href="https://github.com/legacy-matchit">LU-MatchIT</a>
+</li>
+<li>
+    <a href="https://github.com/legacy-ios">iOS</a>
+</li>
+<li>
+    <a href="https://github.com/cloud-iac">IaC-DevOps</a>
+</li>
+</div>
 
 ---
 
