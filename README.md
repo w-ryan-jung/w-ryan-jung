@@ -5,7 +5,7 @@
 
 
 <div>
-  <h2>Hi, there! 
+  <h2>Hi, there~~ 
   <img src="https://media.giphy.com/media/A9dZqpVpbLsju/giphy.gif" width="40"/></h2>
 </div>
 
