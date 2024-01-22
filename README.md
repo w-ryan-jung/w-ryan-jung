@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=999&random=false&width=600&lines=Driven+Software+Engineer;Value+neat+clean+code;Following+SOLID+principles)](https://git.io/typing-svg)
+![header](https://capsule-render.vercel.app/api?type=venom&height=300&color=B897FF&text=いらっしゃい&section=header&reversal=false&descAlign=50&descAlignY=35&descSize=30&desc=＠^^＠&textBg=false&animation=blink&stroke=B897FF)
 
 <div>
   <h2>Hi, there~~
