@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=venom&height=300&color=B897FF&text=いらっしゃい&section=header&reversal=false&descAlign=50&descAlignY=35&descSize=30&desc=＠^^＠&textBg=false&animation=blink&stroke=B897FF)
+![header](https://capsule-render.vercel.app/api?type=venom&height=150&color=B897FF&text=いらっしゃい&section=header&reversal=false&descAlign=50&descAlignY=25&descSize=30&desc=^^&textBg=false&animation=blink&stroke=B897FF)
 
 <div>
   <h2>Hi, there~~
