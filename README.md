@@ -10,7 +10,7 @@
 const Wooram = {
   pronouns: "He" | "Him",
   code: ["Swift", "TypeScript", "Java", "C#"],
-  askMeAbout: ["Full-Stack", "Software Engineer", "DevOps", "Grouth-Oriented"],
+  askMeAbout: ["Full-Stack", "Software Engineer", "DevOps", "Growth-Oriented"],
   technologies: {
     backEnd: {
       js: ["Node", "Nest", "Express"],
