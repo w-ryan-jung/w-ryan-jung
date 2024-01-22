@@ -1,19 +1,39 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif" width="100"/>
-</div>
-
-
-
 <div>
-  <h2>Hi, there~~ 
+  <h2>Hi, there~~
   <img src="https://media.giphy.com/media/A9dZqpVpbLsju/giphy.gif" width="40"/></h2>
 </div>
-
 
 ### :thinking: About Me :
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=999&random=false&width=600&lines=Driven+Software+Engineer;Value+neat+clean+code;Following+SOLID+principles)](https://git.io/typing-svg)
 
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
+
+```javascript
+const Wooram = {
+  pronouns: "He" | "Him",
+  code: ["Swift", "TypeScript", "Java", "C#"],
+  askMeAbout: ["Full-Stack", "Software Engineer", "DevOps", "Grouth-Oriented"],
+  technologies: {
+    backEnd: {
+      js: ["Node", "Nest", "Express"],
+    },
+    mobileApp: {
+      native: ["iOS Development"],
+    },
+    devOps: ["AWS", "Docker🐳", "Route53", "GitActions"],
+    databases: ["Mongo", "MySql"],
+    misc: ["flutter", "nextjs"],
+  },
+  architecture: [
+    "Serverless Architecture",
+    "Progressive web applications",
+    "Single page applications",
+  ],
+  currentFocus: "AWS",
+  funFact: "🇰🇷,🇯🇵,🇬🇧,🇸🇪 where I lived in",
+};
+```
 
 ### :luggage: Repositories :
 
@@ -40,7 +60,6 @@
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=w-ryan-jung&theme=dawnfox&mode=weekly&card_width=500" alt="GitHub Streak" /></a>
 </div>
 
-
 ---
 
 ### :hammer_and_pick: I can use:
@@ -52,6 +71,7 @@
 </p>
 
 ---
+
 <br>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/wooramjung/">
