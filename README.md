@@ -1,11 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&height=150&color=B897FF&text=いらっしゃい&section=header&reversal=false&descAlign=50&descAlignY=25&descSize=30&desc=^^&textBg=false&animation=blink&stroke=B897FF)
 
-<div>
-  <h2>Hi, there~~
-  <img src="https://media.giphy.com/media/A9dZqpVpbLsju/giphy.gif" width="40"/></h2>
-</div>
-
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
+### <img src="https://media.giphy.com/media/A9dZqpVpbLsju/giphy.gif" width="40"> A little more about me...
 ```javascript
 const Wooram = {
   pronouns: "He" | "Him",
